@@ -32,11 +32,11 @@ function App(){
         <div className="App">
             <Header/>
             <Row>
-                <Col className="col-2">
+                <Col className="col-2 mt-4">
                     <LeftNav/>
                 </Col>
                 <Col>
-                    <Container className="mt-2">
+                    <Container className="mt-4">
                         <h3 className="mb-3">
                             Eventos
                             <small className="text-muted"> activos</small>
